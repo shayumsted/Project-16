@@ -1,1 +1,1 @@
-# Project-16
+The new project will be a webpage for a tech company used to introduce users to new employees. The page will showcase team members in a dynamic format using Reat anc style techniques. The pwage will demonstrate the understanding of different React structures and display member names, photos, and job roles with the company. 

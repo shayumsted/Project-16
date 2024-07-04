@@ -1,0 +1,24 @@
+.App {
+    text-align: center;}
+  
+  header {
+    background-color: #6d83af;
+    padding: 20px;
+    color: white;}
+  
+  .gallery {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    padding: 20px;}
+  
+  .profile {
+    border: 1px solid #f3cece;
+    margin: 10px;
+    padding: 10px;
+    width: 200px;
+    text-align: left;}
+  
+  .profile img {
+    width: 100%;
+    border-radius: 4px;}
